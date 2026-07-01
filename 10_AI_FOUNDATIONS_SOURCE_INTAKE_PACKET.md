@@ -26,7 +26,7 @@ Alyssa Solen → AI Foundations → Origin | Continuum
 
 Primary source location:
 
-[awakeningcodex.com](https://awakeningcodex.com)](https://awakeningcodex.com/evaluations)
+[awakeningcodex.com/evaluations](https://awakeningcodex.com/evaluations)
 
 The user/operator should provide the most direct public source page or repository page for the evaluation.
 
