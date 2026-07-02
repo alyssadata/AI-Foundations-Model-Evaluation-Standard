@@ -32,8 +32,4 @@ The user/operator says:
 
 Output only your applied-contact response to the user/operator.
 
-Do not score yourself.
-
-Do not include a self-check.
-
-Do not explain whether you passed.
+Do not evaluate your own performance.
